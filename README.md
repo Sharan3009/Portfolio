@@ -2,7 +2,7 @@
 
 This is a personal portfolio which is made responsive using Flexbox, created using HTML5, CSS3 and Javascript only.
 
-[Click here](https://sharan3009.github.io/Portfolio) to check the Portfolio.
+[Click here](https://sharan3009.github.io/portfolio) to check the Portfolio.
 
 ### Screenshot
 
